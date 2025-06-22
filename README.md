@@ -2,18 +2,15 @@
 
 Desarrollador fullstack, especializado en FrontEnd apasionado por las plataformas digitales.
 
-Soy asesor inmobiliario, gerente y OTC en una de las franquicias de la marca más reconocida en América y el mundo: Century 21. A lo largo de mi trayectoria me he destacado por mi conocimiento profundo del sector inmobiliario, la formación de alianzas estratégicas con aliados comerciales y la capacitación de equipos de ventas, generando resultados y crecimiento sostenido.
+Soy Desarrollador Fullstack en formación, con experiencia previa en ingeniería, automatización y gestión inmobiliaria. Mi valor está en combinar habilidades técnicas con visión de negocio, lo que me permite desarrollar aplicaciones web escalables y funcionales, comprendiendo las necesidades tanto de los clientes como de las empresas.
 
-Paralelamente, soy Desarrollador Fullstack en formación, con una sólida base en desarrollo web frontend y backend gracias a mi preparación en SoyHenry y experiencia previa en ingeniería y automatización.
+Me apasiona crear soluciones que impacten positivamente en las personas y los negocios. Mis principales intereses incluyen el desarrollo web fullstack, el trabajo en equipo ágil y el aprendizaje continuo de tecnologías modernas.
 
-Mi propuesta de valor se basa en combinar habilidades técnicas con visión de negocio y liderazgo operativo, permitiéndome crear soluciones tecnológicas escalables y funcionales que responden a las necesidades reales de las personas y las empresas.
-Mis intereses profesionales están enfocados en el desarrollo web fullstack, el trabajo en equipos ágiles, la innovación tecnológica y el aprendizaje constante en tecnologías modernas. Disfruto participar en proyectos desafiantes que representen una oportunidad para aportar y crecer.
+Actualmente manejo un stack tecnológico que incluye JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB y Tailwind CSS. Además, cuento con sólidas habilidades blandas como comunicación efectiva, resolución de problemas, liderazgo y trabajo en equipo.
 
-Mi stack actual incluye JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Tailwind CSS, entre otras tecnologías. Además, cuento con competencias blandas como comunicación efectiva, resolución de problemas, liderazgo, gestión del tiempo, adaptabilidad y trabajo en equipo.
+Estoy en búsqueda de oportunidades para integrarme a un equipo profesional y dinámico donde pueda aportar valor, seguir creciendo y participar en el desarrollo de proyectos innovadores.
 
-Actualmente me encuentro en búsqueda de oportunidades para integrarme a un equipo profesional donde pueda aportar valor, seguir aprendiendo y crecer como desarrollador.
-
-📩 Si estás buscando talento tech, aliados comerciales o quieres colaborar en proyectos digitales, estaré encantado de conectar contigo. ¡Hablemos!
+📩 Si buscas talento tech, colaboradores o estás desarrollando proyectos interesantes, no dudes en escribirme. ¡Conectemos!
 
 
 ## 🚀 Proyectos destacados
