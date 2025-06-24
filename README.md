@@ -1,17 +1,33 @@
 # 👋 Hola, soy Iran Pérez
 
-Desarrollador fullstack, especializado en FrontEnd apasionado por las plataformas digitales.
+Soy asesor inmobiliario, gerente y OTC en una de las franquicias de la marca más reconocida en América y el mundo: Century 21. Me he destacado por mi conocimiento en el sector inmobiliario, la formación de alianzas estratégicas con aliados comerciales y la capacitación de equipos de trabajo.
 
-Soy Desarrollador Fullstack en formación, con experiencia previa en ingeniería, automatización y gestión inmobiliaria. Mi valor está en combinar habilidades técnicas con visión de negocio, lo que me permite desarrollar aplicaciones web escalables y funcionales, comprendiendo las necesidades tanto de los clientes como de las empresas.
+Además, soy Desarrollador Fullstack en formación, con una sólida base en desarrollo web frontend y backend gracias a mi formación en SoyHenry y experiencia previa en ingeniería y automatización.
 
-Me apasiona crear soluciones que impacten positivamente en las personas y los negocios. Mis principales intereses incluyen el desarrollo web fullstack, el trabajo en equipo ágil y el aprendizaje continuo de tecnologías modernas.
+Me apasiona crear soluciones tecnológicas escalables y funcionales que generen un impacto positivo en las personas y las empresas. Disfruto colaborar en equipos ágiles, aprender nuevas tecnologías y participar en proyectos que representen un reto profesional.
 
-Actualmente manejo un stack tecnológico que incluye JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB y Tailwind CSS. Además, cuento con sólidas habilidades blandas como comunicación efectiva, resolución de problemas, liderazgo y trabajo en equipo.
+Mi stack actual incluye JavaScript / TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Tailwind CSS, entre otras tecnologías. Además, cuento con habilidades blandas como comunicación efectiva, resolución de problemas, liderazgo y trabajo en equipo.
 
-Estoy en búsqueda de oportunidades para integrarme a un equipo profesional y dinámico donde pueda aportar valor, seguir creciendo y participar en el desarrollo de proyectos innovadores.
+Actualmente me encuentro en búsqueda de oportunidades para integrarme a un equipo profesional donde aportar valor, seguir aprendiendo y crecer como desarrollador.
 
-📩 Si buscas talento tech, colaboradores o estás desarrollando proyectos interesantes, no dudes en escribirme. ¡Conectemos!
+📬 Estoy abierto a nuevas oportunidades laborales, colaboraciones o proyectos freelance. ¡Conectemos!
 
+Tech skills:
+• HTML5 / CSS3 / JavaScript (ES6+)
+• React / Next.js / Context API / Tailwind CSS
+• Node.js / Express
+• PostgreSQL / Sequelize / MongoDB
+• Git / GitHub
+• REST APIs / JWT
+
+Soft skills:
+• Trabajo en equipo
+• Comunicación efectiva
+• Resolución de problemas
+• Gestión del tiempo
+• Adaptabilidad
+• Pensamiento crítico
+• Facilidad de palabra
 
 ## 🚀 Proyectos destacados
 
@@ -25,12 +41,29 @@ Estoy en búsqueda de oportunidades para integrarme a un equipo profesional y di
 
 Eng
 
-I’m a Fullstack Developer in training with a background in engineering, automation, and real estate management. My value lies in combining technical skills with business experience, allowing me to develop scalable, functional web applications while understanding the needs of clients and companies.
+I am a real estate advisor, manager, and OTC at one of the most recognized franchise brands in the Americas and worldwide: Century 21. I’ve stood out for my strong knowledge of the real estate industry, the development of strategic partnerships with commercial allies, and the training and leadership of sales teams.
 
-I’m passionate about building solutions that positively impact people and businesses. My main interests include fullstack web development, agile teamwork, and continuous learning in modern technologies.
+In addition, I’m a Fullstack Developer in training, with a solid foundation in frontend and backend web development through my education at SoyHenry and previous experience in engineering and automation.
 
-My current tech stack includes JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, and Tailwind CSS. In addition, I bring strong soft skills such as effective communication, problem-solving, leadership, and teamwork.
+I’m passionate about building scalable, functional tech solutions that create a positive impact on people and businesses. I enjoy collaborating in agile teams, learning new technologies, and working on projects that challenge me to grow professionally.
 
-I am currently seeking opportunities to join a professional, dynamic team where I can contribute, continue growing, and develop innovative projects.
+My current stack includes JavaScript / TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, and Tailwind CSS, among others. I also bring valuable soft skills such as effective communication, problem-solving, leadership, and teamwork.
 
-📩 If you’re hiring or open to collaborations, let’s connect — I’d be happy to chat!
+I’m currently seeking opportunities to join a professional team where I can contribute, keep learning, and grow as a developer.
+
+📬 Open to new job opportunities, collaborations, or freelance projects. Let’s connect!
+
+Tech skills:
+• HTML5 / CSS3 / JavaScript (ES6+)
+• React / Next.js / Context API / Tailwind CSS
+• Node.js / Express
+• PostgreSQL / Sequelize / MongoDB
+• Git / GitHub
+• REST APIs / JWT
+Soft skills:
+• Workteam
+• Effective communication
+• Troubleshooting
+• Time management
+• Adaptive
+• Critical thinking
