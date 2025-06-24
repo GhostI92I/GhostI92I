@@ -52,11 +52,11 @@ Pensamiento crítico
 Facilidad de palabra
 
 🚀 Proyectos destacados
-PujaYa — Plataforma de subastas online
+[PujaYa — Plataforma de subastas online](https://frontend-pujaya.vercel.app/)
 
 📫 Contacto
 📧 Email: iran_phantom@hotmail.com
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/iranfullstackdev/)
 
 🇬🇧 English version
 👋 Hi, I'm Iran Pérez
@@ -113,8 +113,8 @@ Critical thinking
 Public speaking
 
 🚀 Featured Projects
-PujaYa — Online auction platform
+[PujaYa — Plataforma de subastas online](https://frontend-pujaya.vercel.app/)
 
 📫 Contact
 📧 Email: iran_phantom@hotmail.com
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/iranfullstackdev/)
