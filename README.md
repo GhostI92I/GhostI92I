@@ -20,7 +20,7 @@ Estoy en búsqueda de oportunidades para integrarme a un equipo profesional y di
 ## 📫 Contacto
 
 - Email: iran_phantom@hotmail.com
-- [LinkedIn]([https://linkedin.com/in/iran-mendoza](https://www.linkedin.com/in/frontenddeveloperreactnext/))
+- [LinkedIn]([https://www.linkedin.com/in/frontenddeveloperreactnext/])
 
 
 Eng
