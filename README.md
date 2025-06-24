@@ -1,120 +1,129 @@
-👋 Hola, soy Iran Pérez
-📌 Asesor inmobiliario, Gerente y OTC
-en una de las franquicias de la marca más reconocida en América y el mundo: Century 21.
+# 👋 Hola, soy Iran Pérez
 
-✅ Destacado por:
+## 📌 Asesor inmobiliario, Gerente y OTC  
+en una de las franquicias de la marca más reconocida en América y el mundo: **Century 21**.
 
-Conocimiento profundo en el sector inmobiliario
+✅ Destacado por:  
+- Conocimiento profundo en el sector inmobiliario  
+- Formación de alianzas estratégicas con aliados comerciales  
+- Capacitación y liderazgo de equipos de trabajo  
 
-Formación de alianzas estratégicas con aliados comerciales
+---
 
-Capacitación y liderazgo de equipos de trabajo
+## 💻 Desarrollador Fullstack en formación  
+Con sólida base en **desarrollo web frontend y backend**, gracias a mi formación en **SoyHenry** y experiencia previa en **ingeniería y automatización**.
 
-💻 Desarrollador Fullstack en formación
-Con sólida base en desarrollo web frontend y backend, gracias a mi formación en SoyHenry y experiencia previa en ingeniería y automatización.
+**Me apasiona:**
+- Crear soluciones tecnológicas **escalables y funcionales**
+- Colaborar en **equipos ágiles**
+- Aprender nuevas tecnologías
+- Participar en proyectos que representen un reto profesional  
 
-✅ Me apasiona:
+---
 
-Crear soluciones tecnológicas escalables y funcionales
+## 🛠️ Tech Skills
 
-Colaborar en equipos ágiles
+- **HTML5 / CSS3 / JavaScript (ES6+)**
+- **React / Next.js / Context API / Tailwind CSS**
+- **Node.js / Express**
+- **PostgreSQL / Sequelize / MongoDB**
+- **Git / GitHub**
+- **REST APIs / JWT**
 
-Aprender nuevas tecnologías
+---
 
-Participar en proyectos que representen un reto profesional
+## 🤝 Soft Skills
 
-🛠️ Tech Skills
-HTML5 / CSS3 / JavaScript (ES6+)
+- Trabajo en equipo
+- Comunicación efectiva
+- Resolución de problemas
+- Gestión del tiempo
+- Adaptabilidad
+- Pensamiento crítico
+- Facilidad de palabra  
 
-React / Next.js / Context API / Tailwind CSS
+---
 
-Node.js / Express
+## 🚀 Proyectos Destacados
 
-PostgreSQL / Sequelize / MongoDB
+[**PujaYa** — Plataforma de subastas online](https://frontend-pujaya.vercel.app/) 
 
-Git / GitHub
+---
 
-REST APIs / JWT
+## 📫 Contacto
 
-🤝 Soft Skills
-Trabajo en equipo
+📧 **iran_phantom@hotmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/iranfullstackdev/)
 
-Comunicación efectiva
+---
 
-Resolución de problemas
+> **Actualmente en búsqueda de oportunidades profesionales, colaboraciones freelance o proyectos desafiantes. ¡Conectemos! 🚀**
 
-Gestión del tiempo
+---
 
-Adaptabilidad
+## 🇺🇸 About me
 
-Pensamiento crítico
+# 👋 Hi, I'm Iran Pérez
 
-Facilidad de palabra
+## 📌 Real Estate Advisor, Manager & OTC  
+at one of the most recognized franchise brands in the Americas and worldwide: **Century 21**.
 
-🚀 Proyectos destacados
-[PujaYa — Plataforma de subastas online](https://frontend-pujaya.vercel.app/)
+✅ Recognized for:  
+- Strong knowledge of the real estate industry  
+- Development of strategic partnerships with commercial allies  
+- Training and leadership of sales teams  
 
-📫 Contacto
-📧 Email: iran_phantom@hotmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/iranfullstackdev/)
+---
 
-🇬🇧 English version
-👋 Hi, I'm Iran Pérez
-📌 Real Estate Advisor, Manager & OTC
-at one of the most recognized franchise brands in the Americas and worldwide: Century 21.
+## 💻 Fullstack Developer in training  
+With a solid foundation in **frontend and backend web development**, gained through my education at **SoyHenry** and prior experience in **engineering and automation**.
 
-✅ Recognized for:
+**I’m passionate about:**
+- Building **scalable and functional tech solutions**
+- Collaborating in **agile teams**
+- Learning new technologies
+- Participating in projects that represent a professional challenge  
 
-Strong knowledge of the real estate industry
+---
 
-Development of strategic partnerships with commercial allies
+## 🛠️ Tech Skills
 
-Training and leadership of sales teams
+- **HTML5 / CSS3 / JavaScript (ES6+)**
+- **React / Next.js / Context API / Tailwind CSS**
+- **Node.js / Express**
+- **PostgreSQL / Sequelize / MongoDB**
+- **Git / GitHub**
+- **REST APIs / JWT**
 
-💻 Fullstack Developer in training
-With a solid foundation in frontend and backend web development, gained through my education at SoyHenry and prior experience in engineering and automation.
+---
 
-✅ Passionate about:
+## 🤝 Soft Skills
 
-Building scalable and functional tech solutions
+- Teamwork  
+- Effective communication  
+- Problem-solving  
+- Time management  
+- Adaptability  
+- Critical thinking  
+- Public speaking  
 
-Collaborating in agile teams
+---
 
-Learning new technologies
+## 🚀 Featured Projects
 
-Participating in projects that represent a professional challenge
+[**PujaYa** — Online auction platform](https://frontend-pujaya.vercel.app/)
 
-🛠️ Tech Skills
-HTML5 / CSS3 / JavaScript (ES6+)
+---
 
-React / Next.js / Context API / Tailwind CSS
+## 📫 Contact
 
-Node.js / Express
+📧 **iran_phantom@hotmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/iranfullstackdev/)
 
-PostgreSQL / Sequelize / MongoDB
+---
 
-Git / GitHub
+> **Currently seeking professional opportunities, freelance collaborations, or exciting tech projects. Let’s connect! 🚀**
 
-REST APIs / JWT
 
-🤝 Soft Skills
-Teamwork
 
-Effective communication
 
-Problem-solving
-
-Time management
-
-Adaptability
-
-Critical thinking
-
-Public speaking
-
-🚀 Featured Projects
-[PujaYa — Plataforma de subastas online](https://frontend-pujaya.vercel.app/)
-
-📫 Contact
-📧 Email: iran_phantom@hotmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/iranfullstackdev/)
